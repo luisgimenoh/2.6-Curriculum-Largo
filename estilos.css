@@ -1,5 +1,5 @@
 body{
-    background-color: #d3dbde;
+    background-color: #eeeeee;
     font-family: sans-serif;
 }
 
@@ -7,40 +7,37 @@ body{
 h1{
     color: #333333;
     text-align: center;
-    font-size: 250%;
     text-transform: uppercase;
 }
 
 h2{
-    color: #415058;
-    background-color: #7b929d;
-    font-size: 200%;
-    text-decoration: underline;
+    color: red;
+    background-color: #888888;
 }
 
 h3{
-    color:#576b75 ;
-    background-color: #b6c2c9;
-    font-size: 120%;
-    font-style: italic;
+    color:#8b0e92 ;
+    background-color: #aaaaaa;
 }
 
 p{
-    background-color: #b6c2c9;
+    background-color: #cccccc;
     color: black;
+    font-size: 105%;
 }
 
-p.footer{
+div{
     background-color: white;
     text-align: right;
-    font-weight: bold;
-    font-style: italic;
 }
 
 span{
-    color: #007faf;
-}
-span.negrita{
-    color:#007faf;
+    color: blue;
+    text-decoration: underline;
     font-weight: bold;
+    
+}
+span.numeros{
+    color:#00804a;
+    text-decoration: none;
 }
