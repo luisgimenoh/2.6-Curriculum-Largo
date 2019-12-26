@@ -13,11 +13,13 @@ h1{
 h2{
     color: red;
     background-color: #888888;
+    font-weight: bold;
 }
 
 h3{
     color:#8b0e92 ;
     background-color: #aaaaaa;
+    font-weight: bold;
 }
 
 p{
